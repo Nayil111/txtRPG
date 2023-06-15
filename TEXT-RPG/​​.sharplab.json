@@ -1,0 +1,6 @@
+{
+    "version": 1,
+    "target": "C#",
+    "mode": "Release",
+    "branch": "x64"
+}
